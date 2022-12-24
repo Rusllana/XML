@@ -1,4 +1,5 @@
 <bug report>
+  <ID>1</ID>
   <environment>Windows 10 Pro, Chrome v.108</environment>
   <title>Buttons [Sell] and [Buy] are hidden on the price widget of the trading instrument. Buttons appear when 'hidden' is deleted  in the line of code 'class='sharesName__price flex js_prices hidden' in Console</title>
   <STR>
